@@ -51,7 +51,7 @@ nav > ul {
     height: 200px;
     margin: 32px auto;
 
-    background-image: url(.images/example.png);
+    background-image: url(#.images/example.png);
     background-size: cover;
     background-position: 50%;
 
